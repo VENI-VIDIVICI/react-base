@@ -1,11 +1,12 @@
-import './App.css'
-import ResizeObserveDemo from './components/observe/demo'
+import "./App.css";
+// import ResizeObserveDemo from './components/observe/demo'
+import OverflowDemo from "./components/overflow/demo";
 function App() {
   return (
     <>
-    <ResizeObserveDemo />
+      <OverflowDemo />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
