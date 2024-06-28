@@ -4,11 +4,12 @@ import "./App.css";
 // import KeyWordsDemo from "./components/keyword/demo";
 // import DrawerDemo from "./components/drawer/demo";
 // import SelectBoxDemo from "./components/select-box/demo";
-import TypewriterDemo from "./components/typewriter/typewriterdemo";
+// import TypewriterDemo from "./components/typewriter/typewriterdemo";
+import PaginationDemo from "./components/pagination/demo";
 function App() {
   return (
     <>
-      <TypewriterDemo />
+      <PaginationDemo />
     </>
   );
 }
