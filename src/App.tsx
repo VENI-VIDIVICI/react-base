@@ -6,11 +6,12 @@ import "./App.css";
 // import SelectBoxDemo from "./components/select-box/demo";
 // import TypewriterDemo from "./components/typewriter/typewriterdemo";
 // import PaginationDemo from "./components/pagination/demo";
-import PortalDemo from "./components/portal/demo";
+// import PortalDemo from "./components/portal/demo";
+import VirtualListDemo from "./components/virtual-list/demo";
 function App() {
   return (
     <>
-      <PortalDemo />
+      <VirtualListDemo />
     </>
   );
 }
